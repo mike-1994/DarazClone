@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362506181084",
+    "firebase_url": "https://darazclone.firebaseio.com",
+    "project_id": "darazclone",
+    "storage_bucket": "darazclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362506181084:android:99f0c41712da0e00ba5719",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362506181084-ntt1rl0fprmmkeqehgbvhag2ojheud8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "90d2560c041352429605a75fd6942f809a35d414"
+          }
+        },
+        {
+          "client_id": "362506181084-4u1fp55vhgk4vm6ni390rn085jht8p3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVEsiGxyJIIExSgV1-kwqYOP4OqaF3xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362506181084-4u1fp55vhgk4vm6ni390rn085jht8p3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
